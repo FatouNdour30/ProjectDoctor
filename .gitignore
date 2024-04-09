@@ -11,3 +11,8 @@ favicon-C49brna2.svg
 
 # Ignore les fichiers .local
 *.local
+
+# Ignore les fichiers générés dans le répertoire dist/assets
+dist/assets/index-DyzUv7kR.css
+dist/assets/index-Md0EI4en.js
+dist/assets/favicon-C49brna2.svg
