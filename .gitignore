@@ -3,6 +3,8 @@ node_modules/
 
 # Ignore les fichiers .DS_Store spécifiques à macOS
 .DS_Store
-
+index-DyzUv7kR.css/
+index-Md0EI4en.js/
+favicon-C49brna2.svg/
 # Ignore les fichiers .local
 *.local
